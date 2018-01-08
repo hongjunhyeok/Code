@@ -4,6 +4,7 @@ contact_book = ContactBook()
 
 
 
+
 for contact in contact_book:## for 에서 리스트를 달라 그리고 __next__로 넘겨달라## 컨택리스트의 아이템을 받아서 컨택에 넘겨줘야해
     print(contact)
 
